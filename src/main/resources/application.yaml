@@ -1,0 +1,5 @@
+server:
+  port: 8080
+
+govdata-api:
+  base-url: https://www.govdata.de/ckan/api/3
